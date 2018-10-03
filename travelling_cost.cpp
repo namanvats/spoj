@@ -1,4 +1,5 @@
-    //Travelling Cost Spoj
+    //Travelling Cost Spoj https://www.spoj.com/problems/TRVCOST/
+    //author naman
 	#include<bits/stdc++.h>
     using namespace std;
     #define MAX5 100010
